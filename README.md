@@ -11,6 +11,8 @@
 - Node.js
 - Express.js
 - MySQL
+- PostgreSQL
+- .Net Core
 
 ## 📌 Currently
 - Building full stack projects
