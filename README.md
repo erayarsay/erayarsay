@@ -1,6 +1,6 @@
 # Hi 👋 I'm Eray
 
-🎓 Computer Programming Student  
+🎓 Computer Programmer  
 💻 Junior Full Stack Developer Candidate  
 🚀 Currently improving myself in web development  
 
